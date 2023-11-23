@@ -68,6 +68,15 @@ p {
 } */
 
 /* BORDER SHORTHAND */
-P {
+/* P {
   border: 1px solid blue;
+} */
+
+/* PADDING */
+p {
+  border: 1px solid red;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
 }
