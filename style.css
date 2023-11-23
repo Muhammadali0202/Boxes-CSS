@@ -36,8 +36,38 @@ p {
 } */
 
 /* OVERFLOW */
-p {
+/* p {
   max-height: 50px;
   border: 1px solid red;
   overflow: scroll;
+} */
+
+/* BORDER WIDTH */
+/* one by one */
+/* p {
+  border-top-width: 1px;
+  border-right-width: 2px;
+  border-bottom-width: 3px;
+  border-left-width: 4px;
+} */
+/* p {
+  border-style: solid;
+  border-width: 1px 5px 10px 20px;  clockwise 
+} /*
+
+/* BORDER STYLE */
+/* solid, dashed, dotted,double,groove, inset, outset, ridge */
+/* p {
+  border-style: dotted;
+} */
+
+/* BORDER COLOR */
+/* P {
+  border-style: solid;
+  border-color: red;
+} */
+
+/* BORDER SHORTHAND */
+P {
+  border: 1px solid blue;
 }
