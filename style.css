@@ -99,3 +99,13 @@ p.example {
   margin: 10px auto 10px auto;
   text-align: left;
 } */
+
+/* CHANGE INLINE-BLOCK */
+/* li {
+  display: inline;
+  margin-right: 10px;
+}
+
+li.coming-soon {
+  display: none;
+} */
