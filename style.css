@@ -121,8 +121,13 @@ li.coming-soon {
 } */
 
 /* BORDER IMAGES */
-.one {
+/* .one {
   border: 10px solid;
   padding: 15px;
   border-image: url(./colored-dots-7175905.webp) 150 stretch;
+} */
+
+/* BOX SHADOW */
+p.one {
+  box-shadow: 5px 5px 5px 5px #777777;
 }
