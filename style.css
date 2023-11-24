@@ -111,11 +111,18 @@ li.coming-soon {
 } */
 
 /* HIDDEN BOXES */
-li {
+/* li {
   display: inline;
   margin-right: 10px;
 }
 
 li.coming-soon {
   visibility: hidden;
+} */
+
+/* BORDER IMAGES */
+.one {
+  border: 10px solid;
+  padding: 15px;
+  border-image: url(./colored-dots-7175905.webp) 150 stretch;
 }
